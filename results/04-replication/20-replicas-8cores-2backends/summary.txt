@@ -1,0 +1,1 @@
+20-replicas-8cores-2backends: aggregate 1096767.896903485 qps across 20 replicas

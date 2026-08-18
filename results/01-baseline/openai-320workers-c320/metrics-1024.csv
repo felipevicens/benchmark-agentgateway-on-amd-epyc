@@ -1,0 +1,25 @@
+timestamp,container,cpu_percent,mem_usage
+1787041541,perf-litellm,24741.40%,169.9GiB / 1.106TiB
+1787041541,perf-agentgateway,0.07%,71.95MiB / 1.106TiB
+1787041541,perf-mock-server,56.11%,29.74MiB / 1.106TiB
+1787041544,perf-litellm,6799.11%,171.9GiB / 1.106TiB
+1787041544,perf-agentgateway,0.05%,71.95MiB / 1.106TiB
+1787041544,perf-mock-server,68.92%,31.19MiB / 1.106TiB
+1787041547,perf-litellm,6801.29%,171.9GiB / 1.106TiB
+1787041547,perf-agentgateway,0.03%,71.95MiB / 1.106TiB
+1787041547,perf-mock-server,68.99%,31.68MiB / 1.106TiB
+1787041550,perf-litellm,33.67%,171.9GiB / 1.106TiB
+1787041550,perf-agentgateway,2980.76%,277.6MiB / 1.106TiB
+1787041550,perf-mock-server,96.61%,31.12MiB / 1.106TiB
+1787041554,perf-litellm,34.25%,171.9GiB / 1.106TiB
+1787041554,perf-agentgateway,3001.17%,292.2MiB / 1.106TiB
+1787041554,perf-mock-server,384.03%,31.56MiB / 1.106TiB
+1787041557,perf-litellm,31.83%,171.9GiB / 1.106TiB
+1787041557,perf-agentgateway,2961.93%,288.5MiB / 1.106TiB
+1787041557,perf-mock-server,394.06%,31.52MiB / 1.106TiB
+1787041560,perf-litellm,16.41%,171.9GiB / 1.106TiB
+1787041560,perf-agentgateway,2965.05%,288.1MiB / 1.106TiB
+1787041560,perf-mock-server,45.33%,31.44MiB / 1.106TiB
+1787041563,perf-litellm,10.96%,171.9GiB / 1.106TiB
+1787041563,perf-agentgateway,0.02%,287MiB / 1.106TiB
+1787041563,perf-mock-server,0.00%,31.41MiB / 1.106TiB

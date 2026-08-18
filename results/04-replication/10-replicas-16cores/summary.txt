@@ -1,0 +1,1 @@
+10-replicas-16cores: aggregate 724290.393824337 qps across 10 replicas

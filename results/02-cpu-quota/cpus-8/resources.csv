@@ -1,0 +1,3 @@
+PAYLOAD,CONTAINER,AVG_CPU%,PEAK_CPU%,AVG_MEM,PEAK_MEM
+agwbench-agw,0.21%,58.91MiB / 1.106TiB
+agwbench-mock,0.00%,8.719MiB / 1.106TiB

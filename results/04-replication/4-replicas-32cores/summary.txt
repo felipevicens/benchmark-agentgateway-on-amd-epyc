@@ -1,0 +1,1 @@
+4-replicas-32cores: aggregate 434343.4852229103 qps across 4 replicas

@@ -1,0 +1,12 @@
+PAYLOAD,CONTAINER,AVG_CPU%,PEAK_CPU%,AVG_MEM,PEAK_MEM
+agwbench-mock,0.00%,13.65MiB / 1.106TiB
+agwbench-agw-0,0.07%,34.46MiB / 1.106TiB
+agwbench-agw-1,0.02%,36.96MiB / 1.106TiB
+agwbench-agw-2,0.02%,37.57MiB / 1.106TiB
+agwbench-agw-3,0.08%,32.67MiB / 1.106TiB
+agwbench-agw-4,0.02%,36.05MiB / 1.106TiB
+agwbench-agw-5,0.02%,38.08MiB / 1.106TiB
+agwbench-agw-6,0.02%,35.41MiB / 1.106TiB
+agwbench-agw-7,0.02%,37.61MiB / 1.106TiB
+agwbench-agw-8,0.07%,36.32MiB / 1.106TiB
+agwbench-agw-9,0.06%,35.09MiB / 1.106TiB

@@ -1,0 +1,23 @@
+PAYLOAD,CONTAINER,AVG_CPU%,PEAK_CPU%,AVG_MEM,PEAK_MEM
+agwbench-mock,0.00%,10.37MiB / 1.106TiB
+agwbench-mock2,0.00%,11.41MiB / 1.106TiB
+agwbench-agw-0,0.02%,23.55MiB / 1.106TiB
+agwbench-agw-1,0.02%,22.82MiB / 1.106TiB
+agwbench-agw-2,0.02%,21.79MiB / 1.106TiB
+agwbench-agw-3,0.02%,21MiB / 1.106TiB
+agwbench-agw-4,0.02%,23.49MiB / 1.106TiB
+agwbench-agw-5,0.02%,23.18MiB / 1.106TiB
+agwbench-agw-6,0.02%,21.19MiB / 1.106TiB
+agwbench-agw-7,0.06%,21.93MiB / 1.106TiB
+agwbench-agw-8,0.02%,21.91MiB / 1.106TiB
+agwbench-agw-9,0.02%,24.38MiB / 1.106TiB
+agwbench-agw-10,0.02%,23.16MiB / 1.106TiB
+agwbench-agw-11,0.02%,22.32MiB / 1.106TiB
+agwbench-agw-12,0.02%,22.66MiB / 1.106TiB
+agwbench-agw-13,0.03%,23.42MiB / 1.106TiB
+agwbench-agw-14,0.04%,22.89MiB / 1.106TiB
+agwbench-agw-15,0.05%,21.64MiB / 1.106TiB
+agwbench-agw-16,0.02%,23.12MiB / 1.106TiB
+agwbench-agw-17,0.02%,23.05MiB / 1.106TiB
+agwbench-agw-18,0.02%,23.29MiB / 1.106TiB
+agwbench-agw-19,0.01%,22.2MiB / 1.106TiB
