@@ -2,7 +2,7 @@
 
 Configuration, scripts, and raw results behind
 [*How agentgateway Reached 1.08 Million Requests per Second (And Why 320 CPU
-Threads Were Slower Than 32)*](#) <!-- TODO: add the Medium post link once it's published -->,
+Threads Were Slower Than 32)*](https://medium.com/@fjvicens/how-agentgateway-reached-1-08m-req-s-and-why-320-cpu-threads-were-slower-than-32-6623154660be),
 by Felipe Vicens.
 
 This benchmark builds on [Lin Sun's `litellm-agw-perf`](https://github.com/linsun/litellm-agw-perf)
